@@ -21266,9 +21266,9 @@
     "restore": {
       "projectUniqueName": "AI for Robotic Process Automation",
       "projectName": "AI for Robotic Process Automation",
-      "projectPath": "D:\\Ai-for-Robotic-Process-Automation\\.local",
+      "projectPath": "C:\\Dev\\Ai-for-Robotic-Process-Automation\\.local",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "D:\\Ai-for-Robotic-Process-Automation\\.local",
+      "outputPath": "C:\\Dev\\Ai-for-Robotic-Process-Automation\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]
