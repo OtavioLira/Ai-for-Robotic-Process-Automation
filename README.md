@@ -13,7 +13,7 @@ Atividade de fixação proposta pela UiPath, que pode ser encontrado no site htt
 
 ---
 
-## descricao
+## Descrição
 
 O RPA Challenge é um website para treinamento de RPA, onde o objetivo do desafio é criar um fluxo de trabalho que insira dados de uma planilha(.xlsx) nos campos do formulário na tela, os campos mudam após cada envio ao longo de 10 rodadas, onde a dificuldade será em configurar/mapear os seletores desses elementos nos campos/inputs
 
@@ -37,7 +37,6 @@ Após as 10 rodadas, uma mensagem no final mostra o tempo que o robô levou para
 
 
 
-#### API Reference
 
 [Voltar ao topo](#readme)
 
